@@ -1,0 +1,4 @@
+#ifndef XA_STATS_VERSION_H_GUARD
+#define XA_STATS_VERSION_H_GUARD
+#define XA_STATS_VERSION        2.0.0
+#endif
